@@ -3,7 +3,7 @@
 
 [telegram]
 # Get your bot token from @BotFather on Telegram
-bot_token = "YOUR_BOT_TOKEN_HERE"
+bot_token = "7896090354:AAH3dJ4ytvmL3NkqAQYnUaPU4Od6yWjdQV4"
 
 # Maximum file size to send via Telegram (in MB)
 # Telegram has a 50MB limit for bots
